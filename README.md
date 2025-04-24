@@ -36,7 +36,7 @@ Cada apartado de la tarea se encuentra documentado por separado, incluyendo:
 
 ### 🔹 Apartado 1  
 Crear tabla externa llamada `Pokemons`.  
-![Creación de la tabla Pokemons](https://mail.google.com/mail/u/0?ui=2&ik=948a6309de&attid=0.4&permmsgid=msg-a:r-3673863345886258180&th=1966768694bb0262&view=att&disp=safe&realattid=f_m9v8mus43&zw)  
+![Creación de la tabla Pokemons](https://github.com/JavierP5/Tarea2Recuperacion/blob/main/Captura%20desde%202025-04-24%2012-36-00.png)  
 
 ### 🔹 Apartado 2  
 Insertar 3 registros inventados en la tabla `Pokemons`.  
