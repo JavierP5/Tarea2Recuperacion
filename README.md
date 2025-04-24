@@ -6,31 +6,6 @@
 
 Este repositorio contiene la solución a la **Tarea 2 de recuperación** de la asignatura **Sistemas de Xestión Empresarial**, en la que se trabaja con una instalación limpia de **Odoo** con datos demo. Se realizan operaciones directas sobre la base de   datos utilizando SQL, tanto con tablas propias como con las que genera Odoo al instalar los módulos de **Contactos** y **Facturación**.  
 
----
-
-## ⚙️ Requisitos previos  
-
-- Odoo 16/17 instalado con datos demo  
-- Módulos instalados:  
-  - Facturación  
-  - Contactos  
-- Acceso a PgAdmin o terminal SQL  
-- PostgreSQL  
-- Cuenta de GitHub  
-
-> ⚠️ **IMPORTANTE:** Se ha utilizado una copia de la base de datos para evitar modificaciones irreversibles sobre el entorno original.  
-
----
-
-## 📁 Estructura del repositorio  
-
-Cada apartado de la tarea se encuentra documentado por separado, incluyendo:  
-
-- ✅ Sentencia SQL utilizada  
-- 🖼️ Captura de pantalla del resultado  
-- 💬 Breve descripción del objetivo  
-
----
 
 ## 📌 Ejercicios realizados  
 
@@ -40,24 +15,31 @@ Crear tabla externa llamada `Pokemons`.
 
 ### 🔹 Apartado 2  
 Insertar 3 registros inventados en la tabla `Pokemons`.  
+![Insertar 3 registros](https://github.com/JavierP5/Tarea2Recuperacion/blob/main/Captura%20desde%202025-04-24%2012-38-22.png)  
 
 ### 🔹 Apartado 3  
 Consulta ordenada por fecha de captura (descendente).  
+![Consulta ordenada](https://github.com/JavierP5/Tarea2Recuperacion/blob/main/Captura%20desde%202025-04-24%2012-39-23.png)  
 
 ### 🔹 Apartado 4  
 Listado de contactos (no empresas), cuya ciudad NO sea Tracy y CP 95304, mostrando nombre y empresa.  
+![Listar contactos](https://github.com/JavierP5/Tarea2Recuperacion/blob/main/Captura%20desde%202025-04-24%2012-44-50.png)  
 
 ### 🔹 Apartado 5  
 Listado de clientes con facturas rectificativas (reembolsos).  
+![Clientes](https://github.com/JavierP5/Tarea2Recuperacion/blob/main/Captura%20desde%202025-04-24%2012-50-55.png)  
 
 ### 🔹 Apartado 6  
 Empresas proveedoras con más de una factura de compra confirmada.  
+![Empresas proveedoras](https://github.com/JavierP5/Tarea2Recuperacion/blob/main/Captura%20desde%202025-04-24%2012-51-33.png)  
 
 ### 🔹 Apartado 7  
 Actualizar el dominio de correo `@bilbao.example.com` a `@bilbao.euskadi.neus`.  
+![Actualizar dominio de correo](https://github.com/JavierP5/Tarea2Recuperacion/blob/main/Captura%20desde%202025-04-24%2012-51-57.png)  
 
 ### 🔹 Apartado 8  
 Eliminar contactos de la empresa “Wood Corner” sin eliminar la empresa.  
+![Eliminar contactos](https://github.com/JavierP5/Tarea2Recuperacion/blob/main/Captura%20desde%202025-04-24%2012-52-26.png)  
 
 
 
